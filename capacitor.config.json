@@ -1,7 +1,7 @@
 {
   "appId": "com.langermkyt.dragon.genesis",
   "appName": "Dragon Genesis",
-  "webDir": ".",
+  "webDir": "www",
   "server": {
     "androidScheme": "https"
   }

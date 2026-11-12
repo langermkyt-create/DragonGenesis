@@ -1,0 +1,17 @@
+{
+  "name": "dragon-genesis",
+  "version": "0.1.0",
+  "private": true,
+  "description": "Dragon breeding and mutation collection game",
+  "scripts": {
+    "build": "node -e \"console.log('Static game ready')\"",
+    "android:sync": "npx cap sync android"
+  },
+  "dependencies": {
+    "@capacitor/android": "^6.2.0",
+    "@capacitor/core": "^6.2.0"
+  },
+  "devDependencies": {
+    "@capacitor/cli": "^6.2.0"
+  }
+}

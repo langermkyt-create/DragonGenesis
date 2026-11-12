@@ -4,7 +4,7 @@
   "private": true,
   "description": "Dragon breeding and mutation collection game",
   "scripts": {
-    "build": "mkdir -p www && cp index.html www/index.html",
+    "build": "mkdir -p www && cp index.html world.css world.js www/",
     "android:sync": "npx cap sync android"
   },
   "dependencies": {
